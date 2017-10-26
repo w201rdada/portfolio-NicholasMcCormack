@@ -1,19 +1,24 @@
-# **Tit For Tat: A Barter System For Services**  {#Scratch-Eachother's-Backs}
-
+# Tit For Tat: A Barter System For Services  {#Scratch-Eachothers-Backs}
+<!-- good title, but t4t normally has a negative association. product name could be slug -->
 #### Keywords
 
 barter, alternative economy, trading, services, Quid pro quo
-
+<!-- add tech keywords -->
 ## A beginning.
-
-In a world of increasing specialization, everyone has tasks that they excel at, and tasks that they would prefer to outsource. Further, time is a commodity, and even when we are physically capable of performing our tasks, it may be impossible to take care of them all because of competing responsibilities. For someone on a budget, hiring outside help may be an untenable option, as well. *Tit-for-tat* targets these individuals and creates a marketplace where people are brought together in a mass bartering system that helps them help eachother. 
-
+<!-- use your headings! -->
+In a world of increasing specialization everyone has tasks that they excel at and tasks that they would prefer to outsource. Time is a commodity, and even when we are physically capable of performing our tasks it may be impossible to take care of them all because of competing responsibilities. For someone on a budget, hiring outside help may be an untenable option. *Tit-for-tat* targets these individuals and creates a marketplace where people are brought together in a mass bartering system that helps them help each other.
+<!-- flesh problem out a little more. who are your competitors? Is moneyless exchange the chief differentiator? -->
 ## A middle.
 
-To accomplish this goal, *Tit-for-tat* creates a virtual marketplace where users can either: 1) Exchange their services for the services of others (going *Tit-for-tat*) or 2) "Pay" for the services of others using a type of pseudo-currency or credit system (credits are earned by selling services; new users get a flat number of credits to get started). Users are able to create a profile of their marketable skills and/or the tasks they wish to contribute to the marketplace (e.g. tutoring, car services, lawncare, pet sitting, etc.), the times and locations they are available to help, the tasks they need help with, the times and locations where they need help, and (optionally) the number of credits they are charging for their services.
+*Tit-for-tat* creates a virtual marketplace where users can either:
 
-*Tit-for-tat* utilizes a unique matching algorithm that connects users based upon the services they need versus the services they are providing, their availability versus the times they need help, feedback from prior clients, and whether they are looking to “buy” services (and what they are willing to pay) or whether they are looking to go *Tit-for-tat*. Users are also presented with suggestions for services that are similar to what they are already offering/looking for (and that they may not have thought to include in their profile). The more that a user uses our product, the better the ratings are that (s)he receives from past clients, and the more reliable the user is for giving feedback on past bartering partners, the more likely it is that her/his services are to be seen by new/other users.
+1. Exchange their services for the services of others (going *Tit-for-tat*) or
+2. "Pay" for the services of others using a type of pseudo-currency or credit system.
+
+Credits are earned by selling services and new users get a flat number of credits to get started. Users are able to create a profile of their marketable skills and/or the tasks they wish to contribute to the marketplace (e.g. tutoring, car services, lawn care, pet sitting, etc.), the times and locations they are available to help, the tasks they need help with, the times and locations where they need help, and (optionally) the number of credits they are charging for their services.
+
+*Tit-for-tat* utilizes a unique matching algorithm that connects users based upon the services they need versus the services they are providing, their availability versus the times they need help, feedback from prior clients, and whether they are looking to "buy" services (and what they are willing to pay) or whether they are looking to go *Tit-for-tat*. Users are also presented with suggestions for services that are similar to what they are already offering/looking for (and that they may not have thought to include in their profile). The more that a user uses our product, the better the ratings are that she receives from past clients. The more reliable the user is for giving feedback on past bartering partners, the more likely it is that her services are to be seen by other users.
 
 ## An end.
 
-*Tit-for-tat* hopes to revolutionize the way that people do their chores. It allows users to multi-task like never before and to swap out the tasks they dislike for more enjoyable ones. Further, it allows users to commoditize their free time and to acquire services that had previously been outside of their price range. Our biggest concerns, at present, are how to police unfulfilled agreements, protect the privacy of our users, and monetize our product while staying true to the quid pro quo model. We would like to offer the ability to purchase services at a reduced cost (e.g. when users lack the bartering credits to acquire a service); however, we need to be careful that this does not become the majority of our transactions in order to stay true to our business model. As we move forward in the MIDS curriculum, we fully expect to refine our matching algorithms and to continue to get better at helping our neighbors scratch eachother’s backs!
+*Tit-for-tat* hopes to revolutionize the way that people do their chores. It allows users to multi-task like never before and to swap out the tasks they dislike for more enjoyable ones. It allows users to commoditize their free time and to acquire services that had previously been outside of their price range. Our biggest concerns, at present, are how to police unfulfilled agreements, protect the privacy of our users, and monetize our product while staying true to the quid pro quo model. We would like to offer the ability to purchase services at a reduced cost (e.g. when users lack the bartering credits to acquire a service); however, we need to be careful that this does not become the majority of our transactions in order to stay true to our business model.

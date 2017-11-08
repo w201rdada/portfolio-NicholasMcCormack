@@ -2,19 +2,19 @@
 
 #### Keywords
 
-golf, coaching, swing
+golf, coaching, wearables
 
-## A beginning.
+## What is Tinker, and what do we hope to accomplish?
 
-Every year millions of amateur golfers spend countless hours tinkering with their stance, grip, backswing, and swing angle. Despite all of this tinkering, it is often the case that the golfer has no idea what it is that they actually need to fix. Lessons are expensive, and coaching ceases when the lesson ends. Hours are spent correcting and un-correcting what we think is wrong, and without proper coaching, practice could do more harm than good. Our goal at Tinker is to revolutionize the coaching space by providing the same services that expensive golf lessons provide, at a fraction of the cost, whenever the golfer wants to play.
+Every year millions of amateur golfers spend countless hours tinkering with their stance, grip, backswing, and swing angle in an attempt to lower their scores on the course. Despite all of this tinkering, these individuals, oftentimes, have no idea what it is that they actually need to correct or how to fix what they have correctly identified as the problem. Valuable time is spent fixing and un-fixing what they have changed, and without proper coaching, practice may do more harm than good. Professional lessons are expensive, and further, the coaching received during these lessons ceases when the lesson ends.  Our goal at Tinker is to revolutionize the coaching space and provide the same services that expensive golf lessons provide, at a fraction of the cost, whenever the golfer wants to play.
 
-## A middle.
+## How Do We Plan to Do It?
 
-Tinker uses strategically placed sensors, as well as information about the golfer’s golf game, to analyze the components of their swing and offer actionable adjustments they can implement to improve their accuracy, power, and consistency. Every round played, every trip to the driving range, is a data point that can be used to help the golfer get the absolute most out of her or his practice time.  
+To do this, Tinker uses strategically placed sensors on a golfer's wrists, elbows, shoulders, knees, and ankles (as well as information about the shot's outcome) to analyze the components of a golfer's swing and offer actionable adjustments that they can implement to improve their accuracy, power, and consistency. Every round played, every trip to the driving range, becomes a potential data point that can be used to help the golfer get the absolute most out of his or her practice time. To keep the cost down, Tinker offers unlimited swing samples in their monthly subscriptions.
 
-Further, our algorithms recognize that there are multiple ways to get to the same result and that not every successful swing follows the same trajectory (or is defined the same by every golfer). By analyzing the setup, swing path, and current abilities of the user, Tinker classifies their swing type and offers personalized suggestions, drills, and tips that provide the maximum amount of gain depending on where they are in their development as a golfer. 
+Tinker also recognizes that there are multiple ways to get to the same result and that not every successful swing follows the same trajectory (or is defined the same way by golfers of different skill levels). By analyzing the locations of our sensor-targeted areas at the swing's start, midpoint, apex, point of contact, and finish (as well as information about the current golfer's handicapp, tendancies, and the outcome of the shot), Tinker using clustering algorithms to assign the golfer to one of n number of swing types and then offers personalized suggestions, drills, and tips that provide the maximum amount of gain depending on where they are in the development as a golfer and in their proximity to the ideal swing for their identified swing type. 
 
 
-## An end.
+## How does this transform the golf coaching space?
 
-At Tinker, we want to do the tinkering for you. Our goal is to help all golfers maximize their potential and get the absolute most out of their practice time. We want to revolutionize the way players talk about their swings and the ways that they go about improving them. It is hard enough finding the time to practice, Tinker makes sure you don’t waste that time, when you have it. 
+At Tinker, we promise to do the tinkering for you. Our goal is to help all golfers maximize their potential, get the absolute most out of their practice time, and do so at a low cost. Tinker will revolutionize the way players talk about their swings and the ways that they go about improving them. It is hard enough finding the time to practice; at Tinker, we'll make sure that you don’t waste that time when you actually have it. 

@@ -1,12 +1,12 @@
-# **Tit For Tat: A Barter System For Services**  {#Scratch-Eachother's-Backs}
+# Tit For Tat: A Barter System For Services {#tit4tat}
 
 #### Keywords
 
-barter, alternative economy, trading, services, Quid pro quo
+barter economy, service trading, Quid pro quo, matching algorithms, similarity scores
 
-## A beginning.
+## 
 
-In a world of increasing specialization, everyone has tasks that they excel at, and tasks that they would prefer to outsource. Further, time is a commodity, and even when we are physically capable of performing our tasks, it may be impossible to take care of them all because of competing responsibilities. For someone on a budget, hiring outside help may be an untenable option, as well. *Tit-for-tat* targets these individuals and creates a marketplace where people are brought together in a mass bartering system that helps them help eachother. 
+In a world of increasing specialization everyone has tasks that they excel at and others that they would prefer to outsource. Whether it's making dinner, walking the dog, or even learning a new language, there are boxes on everyone's to-do list that consistently get checked and others that fall by the wayside. Further, these tasks are not the same for everyone. Person A may make fantastic dinners but struggle to get home to let her dog out during the week. Person B may work a different shift but finds making meals burdensome and a pain. On a budget, hiring outside help may be untenable for both individuals, and they may struggle to get these things done. *Tit-for-tat* targets such inefficiences, however, and allows the members of its community to barter the exchange of services to get the most out of their 24 hours in a day. A willingness to help, is all that is required 
 
 ## A middle.
 

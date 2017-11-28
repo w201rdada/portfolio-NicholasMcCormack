@@ -1,7 +1,7 @@
 ---
 title: "W201 Portfolio"
 author: "Oski Bear"
-date: "MIDS Summer 2017"
+date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
 ---
@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
@@ -39,7 +39,7 @@ Every year, millions of amateur golfer spend countless hours tinkering with thei
 At Tinker, we want to revolutionize the coaching space for the sport of golf. By utilizing strategically placed sensors in the golfer's wrists, elbows, shoulders, knees, and ankles (as well as information about the shot's outcome, tendancies of the golfer, and his/her swing type), we are able to provide a service where golfers of all swing types and skill levels get actionable tips and solutions, whenever they want to play, for a fraction of the cost of traditional lessons. Tinker makes those countless hours practicing start to count; we want to do the tinkering for you.
   
 
-## About the author
+## About the author {-}
 
 Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
 

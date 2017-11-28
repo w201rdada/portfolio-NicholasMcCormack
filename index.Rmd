@@ -34,7 +34,9 @@ To accomplish this, Tit For Tat matches the needs and offered services of Client
 
 ### Abstract of my second cool idea
 
-Every year, golfers of all skill levels, spend countless hours tinkering with their swings, oftentimes with little to no knowledge about what they need to fix or how to go about fixing it. Why? Because golf is a tough sport and requires hours and hours of practice to perfect. Professional lessons are not only expensive but end when the lesson is over. Tinker wants to change this so that golfers of all skill levels receive the coaching they need, whenever they play. By utizing wearable technology, we hope to revolutionize the coaching space for the sport of golf and offer actionable tips and solutions for golfers of all swing types and skill levels. Strategically placed sensors in the golfer's wrists, elbows, shoulders, knees, and ankles (as well as information about the shot's outcome, tendancies of the golfer, and his/her swing type), enable us to identify problems and suggest personalized suggestions, drills, and tips to provide the maximum amount of benefit depending on where a golfer is in in his or her development.
+Every year, millions of amateur golfer spend countless hours tinkering with their swings. Despite all of this tinkering, many of these individuals will spend the majority of their time with little or no knowledge about what they need to fix or how to go about fixing what they have identified as the problem. Professional lessons are expensive, and coaching ceases when the lesson ends.  
+
+At Tinker, we want to revolutionize the coaching space for the sport of golf. By utilizing strategically placed sensors in the golfer's wrists, elbows, shoulders, knees, and ankles (as well as information about the shot's outcome, tendancies of the golfer, and his/her swing type), we are able to provide a service where golfers of all swing types and skill levels get actionable tips and solutions, whenever they want to play, for a fraction of the cost of traditional lessons. Tinker makes those countless hours practicing start to count; we want to do the tinkering for you.
   
 ### Abstract of my third cool idea
 

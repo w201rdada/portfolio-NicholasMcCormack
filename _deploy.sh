@@ -6,7 +6,7 @@ git config user.email "mccormack.1112@buckeyemail.osu.edu"
 
 # make sure you're on the master branch
 git checkout master
-
+git
 cd /home/rstudio/ \
 && rm -rf docs/ \
 && mv -u -T _book/ docs/

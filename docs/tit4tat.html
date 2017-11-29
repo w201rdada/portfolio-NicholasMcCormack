@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
+<link rel="prev" href="fours-not-fores.html">
 
-<link rel="next" href="fours-not-fores.html">
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -100,37 +100,26 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">W201 Portfolio</h1>
-<h4 class="author"><em>Oski Bear</em></h4>
-<h4 class="date"><em>MIDS Fall 2017</em></h4>
+<div id="tit4tat" class="section level1">
+<h1><span class="header-section-number">2</span> Tit For Tat: A Barter System For Services</h1>
+<div id="keywords-1" class="section level4">
+<h4><span class="header-section-number">2.0.0.1</span> Keywords</h4>
+<p>barter economy, service trading, Quid pro quo, matching algorithms, similarity scores</p>
 </div>
-<div id="welcome" class="section level1 unnumbered">
-<h1>Welcome!</h1>
-<!-- You can include images saved within your repo... -->
-<div class="figure" style="text-align: center"><span id="fig:hello-world"></span>
-<img src="img/hello-world.png" alt="Hello World!" width="50%" />
-<p class="caption">
-Figure .: Hello World!
-</p>
+<div id="why-go-tit4tat" class="section level2">
+<h2><span class="header-section-number">2.1</span> Why go Tit4Tat</h2>
+<p>In a world of increasing specialization everyone has tasks that they excel at and tasks that they would prefer to outsource. Whether it is making dinner, walking the dog, or learning a new language, there are boxes on everyone’s to-do list that consistently go unchecked. Further, these tasks are not the same for every person and opportunities to optimize our time and resources often go unrealized. For example, suppose two people live a mile apart. Person A is a fantastic chef who loves to cook and struggles to let her dog out while at work. Person B has plenty of flexibility during the day, but struggles to make healthy dinners over the course of the week. If these individuals are on a budget, they may not be able to afford help with their problems in a pay for service economy. However, if they knew of the other’s situation, a symbiotic agreement could potentially be reached between the two parties.</p>
+<p><em>Tit-for-tat</em> aims to correct for such inefficiencies. It strives to identify situations where someone needs help stretching their time and/or budget and aims to connect them with the people who can help. The catch? They have to help them (or someone else) in return.</p>
 </div>
-<p>Pariatur sapiente anim waistcoat bicycle rights. Cupidatat chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable. Sint jianbing DIY humblebrag heirloom exercitation ennui fanny pack. Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken. Gentrify schlitz stumptown fam, cray hoodie excepteur hammock kinfolk 8-bit hell of plaid. Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table. Laboris bitters aliqua small batch.</p>
-<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
-<p>
-<div id="abstract-of-my-first-cool-idea" class="section level3">
-<h3><span class="header-section-number">0.0.1</span> Abstract of my first cool idea</h3>
-<p>Everyone has things they better at than others, chores they find more enjoyable than others, and days when there just isn’t enough time to take care of all of life’s responsibilities. Getting the help or services we need, when we need them, can be incredibly expensive; however, the alternative to outsourcing some of these tasks is oftentimes just as costly in time and energy spent. Tit For Tat is an online marketplace aimed at solving this dilemma. Our goal is to connect people who need services with people who are able to supply them. The catch? No currency is exchanged between the two parties.</p>
-<p>To accomplish this, Tit For Tat matches the needs and offered services of Client <em>A</em> with the needs and offered services of Client <em>B</em>. When a match is found, Client <em>A</em> exchanges his/her services on days <span class="math inline">\(y_1\)</span>..<span class="math inline">\(y_n\)</span> with the needs of Client <em>B</em> on days <span class="math inline">\(z_1\)</span>..<span class="math inline">\(z_n\)</span>. Free time is maximized for both parties; everyone benefits from the system.</p>
+<div id="how-it-works" class="section level2">
+<h2><span class="header-section-number">2.2</span> How it works</h2>
+<p>To accomplish this goal, <em>Tit-for-tat</em> creates a virtual marketplace where users can either: 1) Exchange their services for the services of others (going <em>Tit-for-tat</em>) or 2) “Pay” for services using credits banked from past services performed.</p>
+<p>Upon joining the <em>Tit-for-tat</em> community, users complete a detailed questionnaire of their skills, tasks they are willing to contribute (e.g. tutoring, car services, lawncare, pet sitting, etc.), times and locations they are available to help, tasks they need help with, times and locations they need help, and (optionally) the number of credits they are charging for their services (if they intend to explore the latter option outlined above).</p>
+<p><em>Tit-for-tat</em> then uses this data (as well as location information) to connect users based upon shared needs, availability, reliability (rated by past service partners), and whether they are looking to “buy” services (and what they are willing to pay) or go <em>Tit-for-tat</em>. Users are also presented with suggestions for services that are similar to what they are already offering/looking for. The more that a user uses the app, the better the ratings are that (s)he receives from past clients, and the more reliable the user is at giving feedback for other community members, the more likely (s)he is to be paired with neighboring <em>Tit-for-tatters</em>.</p>
 </div>
-<div id="abstract-of-my-second-cool-idea" class="section level3">
-<h3><span class="header-section-number">0.0.2</span> Abstract of my second cool idea</h3>
-<p>Every year, millions of amateur golfer spend countless hours tinkering with their swings. Despite all of this tinkering, many of these individuals will spend the majority of their time with little or no knowledge about what they need to fix or how to go about fixing what they have identified as the problem. Professional lessons are expensive, and coaching ceases when the lesson ends.</p>
-<p>At Tinker, we want to revolutionize the coaching space for the sport of golf. By utilizing strategically placed sensors in the golfer’s wrists, elbows, shoulders, knees, and ankles (as well as information about the shot’s outcome, tendancies of the golfer, and his/her swing type), we are able to provide a service where golfers of all swing types and skill levels get actionable tips and solutions, whenever they want to play, for a fraction of the cost of traditional lessons. Tinker makes those countless hours practicing start to count; we want to do the tinkering for you.</p>
-</div>
-<div id="about-the-author" class="section level2 unnumbered">
-<h2>About the author</h2>
-<p>Sustainable aute gochujang, messenger bag vero dolor blog pork belly knausgaard. Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in roof party activated charcoal jean shorts craft beer. Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu sint pariatur. Aliquip anim godard leggings, flexitarian direct trade humblebrag. Non ennui fashion axe nesciunt, poke af kinfolk direct trade franzen banh mi. Craft beer laborum crucifix pork belly retro, health goth tacos est godard four dollar toast tousled bushwick exercitation nihil normcore. Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.</p>
-<p><em>Updated: 2017-11-29</em></p>
+<div id="how-it-changes-the-game" class="section level2">
+<h2><span class="header-section-number">2.3</span> How it changes the game</h2>
+<p><em>Tit-for-tat</em> hopes to revolutionize the way that people do their chores. It allows users to multi-task like never before and to swap out the tasks they dislike for more enjoyable ones. Further, it allows users to commoditize their free time and to acquire services that had previously been outside of their price range. Our biggest concerns, at present, are how to police unfulfilled agreements, protect the privacy of our users, and monetize our product while staying true to the quid pro quo model. We would like to offer the ability to purchase services at a reduced cost (e.g. when users lack the bartering credits to acquire a service); however, we need to be careful that this does not become the majority of our transactions in order to stay true to our business model and keep the spirit of the community alive. As we move forward in the MIDS curriculum, we fully expect to refine our algorithms and continue to get better at helping our neighbors help one another.</p>
 
 </div>
 </div>
@@ -139,8 +128,8 @@ Figure .: Hello World!
           </div>
         </div>
       </div>
+<a href="fours-not-fores.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 
-<a href="fours-not-fores.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -169,7 +158,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/w201rdada/portfolio-MYGITHUBUSER/edit/master/index.Rmd",
+"link": "https://github.com/w201rdada/portfolio-MYGITHUBUSER/edit/master/01.Rmd",
 "text": "Edit"
 },
 "download": null,

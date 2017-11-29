@@ -1,6 +1,6 @@
 # Tinker {#fours-not-fores}
 
-#### Keywords
+#### Keywords {-}
 
 golf, coaching, wearables, clustering, neural networks
 

@@ -1,6 +1,6 @@
 # Tit For Tat: A Barter System For Services {#tit4tat}
 
-#### Keywords
+#### Keywords {-}
 
 barter economy, service trading, Quid pro quo, matching algorithms, similarity scores
 

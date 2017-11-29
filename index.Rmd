@@ -27,14 +27,24 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 #knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
+<<<<<<< HEAD
 ### Abstract of my first cool idea
 Everyone has things they better at than others, chores they find more enjoyable than others, and days when there just isn't enough time to take care of all of life's responsibilities. Getting the help or services we need, when we need them, can be incredibly expensive; however, the alternative to outsourcing some of these tasks is oftentimes just as costly in time and energy spent. Tit For Tat is an online marketplace aimed at solving this dilemma. Our goal is to connect people who need services with people who are able to supply them. The catch? No currency is exchanged between the two parties.
+=======
+### Abstract of my first cool idea {-}
+>>>>>>> b9ca6a772429c82d99d9f95557fbe2047ece7c9d
 
 To accomplish this, Tit For Tat matches the needs and offered services of Client *A* with the needs and offered services of Client *B*. When a match is found, Client *A* exchanges his/her services on days $y_1$..$y_n$ with the needs of Client *B* on days $z_1$..$z_n$. Free time is maximized for both parties; everyone benefits from the system.
 
-### Abstract of my second cool idea
+### Abstract of my second cool idea {-}
 
+<<<<<<< HEAD
 Every year, millions of amateur golfer spend countless hours tinkering with their swings. Despite all of this tinkering, many of these individuals will spend the majority of their time with little or no knowledge about what they need to fix or how to go about fixing what they have identified as the problem. Professional lessons are expensive, and coaching ceases when the lesson ends.  
+=======
+Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+  
+### Abstract of my third cool idea {-}
+>>>>>>> b9ca6a772429c82d99d9f95557fbe2047ece7c9d
 
 At Tinker, we want to revolutionize the coaching space for the sport of golf. By utilizing strategically placed sensors in the golfer's wrists, elbows, shoulders, knees, and ankles (as well as information about the shot's outcome, tendancies of the golfer, and his/her swing type), we are able to provide a service where golfers of all swing types and skill levels get actionable tips and solutions, whenever they want to play, for a fraction of the cost of traditional lessons. Tinker makes those countless hours practicing start to count; we want to do the tinkering for you.
   

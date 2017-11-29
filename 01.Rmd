@@ -4,13 +4,13 @@
 
 barter economy, service trading, Quid pro quo, matching algorithms, similarity scores
 
-##Do more of the fun work
+##Why go Tit4Tat
 
 In a world of increasing specialization everyone has tasks that they excel at and tasks that they would prefer to outsource. Whether it is making dinner, walking the dog, or learning a new language, there are boxes on everyone's to-do list that consistently go unchecked. Further, these tasks are not the same for every person and opportunities to optimize our time and resources often go unrealized. For example, suppose two people live a mile apart. Person A is a fantastic chef who loves to cook and struggles to let her dog out while at work. Person B has plenty of flexibility during the day, but struggles to make healthy dinners over the course of the week. If these individuals are on a budget, they may not be able to afford help with their problems in a pay for service economy. However, if they knew of the other's situation, a symbiotic agreement could potentially be reached between the two parties. 
 
 *Tit-for-tat* aims to correct for such inefficiencies. It strives to identify situations where someone needs help stretching their time and/or budget and aims to connect them with the people who can help. The catch? They have to help them (or someone else) in return.
 
-## How it works?
+## How it works
 
 To accomplish this goal, *Tit-for-tat* creates a virtual marketplace where users can either: 1) Exchange their services for the services of others (going *Tit-for-tat*) or 2) "Pay" for services using credits banked from past services performed.  
 
@@ -18,6 +18,6 @@ Upon joining the *Tit-for-tat* community, users complete a detailed questionnair
 
 *Tit-for-tat* then uses this data (as well as location information) to connect users based upon shared needs, availability, reliability (rated by past service partners), and whether they are looking to “buy” services (and what they are willing to pay) or go *Tit-for-tat*. Users are also presented with suggestions for services that are similar to what they are already offering/looking for. The more that a user uses the app, the better the ratings are that (s)he receives from past clients, and the more reliable the user is at giving feedback for other community members, the more likely (s)he is to be paired with neighboring *Tit-for-tatters*.
 
-## An end.
+## How it changes the game
 
 *Tit-for-tat* hopes to revolutionize the way that people do their chores. It allows users to multi-task like never before and to swap out the tasks they dislike for more enjoyable ones. Further, it allows users to commoditize their free time and to acquire services that had previously been outside of their price range. Our biggest concerns, at present, are how to police unfulfilled agreements, protect the privacy of our users, and monetize our product while staying true to the quid pro quo model. We would like to offer the ability to purchase services at a reduced cost (e.g. when users lack the bartering credits to acquire a service); however, we need to be careful that this does not become the majority of our transactions in order to stay true to our business model and keep the spirit of the community alive. As we move forward in the MIDS curriculum, we fully expect to refine our algorithms and continue to get better at helping our neighbors help one another.
